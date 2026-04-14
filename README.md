@@ -26,19 +26,19 @@ We focus on **simple, effective, and real-world tools** — not overengineered s
 
 🔹 **FoxScan**  
 Lightweight reconnaissance tool for port scanning & header analysis  
-👉 https://github.com/foxhackerzdevs/FoxScan  
+👉 [View Repository](https://github.com/foxhackerzdevs/FoxScan)
 
 🔹 **Cryptify**  
 Multi-layered security tool for file encryption and system protection  
-👉 https://github.com/foxhackerzdevs/Cryptify  
+👉 [View Repository](https://github.com/foxhackerzdevs/Cryptify)
 
 🔹 **pinlock-img**  
 Authenticated PNG vault with Encrypt-then-MAC design  
-👉 https://github.com/foxhackerzdevs/pinlock-img  
+👉 [View Repository](https://github.com/foxhackerzdevs/pinlock-img)
 
 🔹 **sshm**  
 Fast CLI tool to connect to SSH hosts instantly  
-👉 https://github.com/foxhackerzdevs/sshm  
+👉 [View Repository](https://github.com/foxhackerzdevs/sshm)
 
 ---
 
@@ -53,7 +53,7 @@ Fast CLI tool to connect to SSH hosts instantly
 
 ## 🌐 Connect
 
-📌 GitHub: https://github.com/foxhackerzdevs  
+📌 GitHub: [foxhackerzdevs](https://github.com/foxhackerzdevs)
 
 ---
 
