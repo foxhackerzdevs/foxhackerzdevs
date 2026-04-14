@@ -1,68 +1,59 @@
-# 👋 Hi, I'm Abhrankan Chakrabarti  
+# 🦊 Fox Hackerz  
 
-🧠 Curious builder focused on clean code, security, and practical tools  
+<p align="center">
+  <b>Cybersecurity • Automation • Developer Tools</b>
+</p>
+
+<p align="center">
+  Build. Break. Secure.
+</p>
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 What We Do
+
+Fox Hackerz builds practical tools focused on:
+
+- 🔐 Cybersecurity  
+- ⚙️ Automation  
+- 🧰 Developer utilities  
+
+We focus on **simple, effective, and real-world tools** — not overengineered solutions.
+
+---
+
+## 🧩 Projects
 
 🔹 **FoxScan**  
-Automated reconnaissance tool for port scanning & header analysis  
+Lightweight reconnaissance tool for port scanning & header analysis  
 👉 https://github.com/foxhackerzdevs/FoxScan  
 
 🔹 **Cryptify**  
-Multi-layered file & system security tool with encryption & access control  
+Multi-layered security tool for file encryption and system protection  
 👉 https://github.com/foxhackerzdevs/Cryptify  
 
 🔹 **pinlock-img**  
-Authenticated PNG image vault using Encrypt-then-MAC  
+Authenticated PNG vault with Encrypt-then-MAC design  
 👉 https://github.com/foxhackerzdevs/pinlock-img  
 
 🔹 **sshm**  
 Fast CLI tool to connect to SSH hosts instantly  
 👉 https://github.com/foxhackerzdevs/sshm  
 
-🔹 **Almost Isosceles Pythagorean Triples Optimizer**  
-Efficient generator for special Pythagorean triples  
-👉 https://github.com/Abhrankan-Chakrabarti/almost-isosceles-pythagorean-triples  
+---
 
-🔹 **Interactive Matrix Calculator**  
-CLI-based matrix operations tool  
-👉 https://github.com/Abhrankan-Chakrabarti/Interactive-Matrix-Calculator  
+## 🧠 Philosophy
+
+> Build tools that are:
+> - Simple  
+> - Practical  
+> - Reliable  
 
 ---
 
-## 🧩 What I Work On
+## 🌐 Connect
 
-- 🔐 Cybersecurity tools  
-- ⚙️ Automation & CLI utilities  
-- 🧮 Mathematical algorithms  
-- 🤖 AI / experimental systems  
-
----
-
-## 🛠 Tech Stack
-
-- **Languages:** Python, C++, Bash  
-- **Domains:** Security, Systems, Numerical Methods  
-
----
-
-## 📌 Philosophy
-
-> Build practical tools. Keep them simple. Make them work.
-
----
-
-## 🦊 Fox Hackerz
-
-We build tools focused on:
-
-- Cybersecurity  
-- Automation  
-- Developer tools  
-
-👉 https://github.com/foxhackerzdevs  
+📌 GitHub: https://github.com/foxhackerzdevs  
 
 ---
 
