@@ -57,7 +57,7 @@ Fast CLI tool to connect to SSH hosts instantly.
 
 ## 🌐 Connect
 
-📌 GitHub: [foxhackerzdevs](https://github.com)
+📌 GitHub: [foxhackerzdevs](https://github.com/foxhackerzdevs)
 
 ---
 
