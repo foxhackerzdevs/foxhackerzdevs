@@ -24,20 +24,24 @@ We focus on **simple, effective, and real-world tools** — not overengineered s
 
 ## 🧩 Projects
 
+🔹 **FoxPipe**  
+Secure • Simple • Reliable data streaming via end-to-end encrypted Unix pipes.  
+👉 [View Repository](https://github.com/foxhackerzdevs/FoxPipe) | [PyPI](https://pypi.org/project/foxpipe)
+
 🔹 **FoxScan**  
-Lightweight reconnaissance tool for port scanning & header analysis  
+Lightweight reconnaissance tool for port scanning & header analysis.  
 👉 [View Repository](https://github.com/foxhackerzdevs/FoxScan)
 
 🔹 **Cryptify**  
-Multi-layered security tool for file encryption and system protection  
+Multi-layered security tool for file encryption and system protection.  
 👉 [View Repository](https://github.com/foxhackerzdevs/Cryptify)
 
 🔹 **pinlock-img**  
-Authenticated PNG vault with Encrypt-then-MAC design  
+Authenticated PNG vault with Encrypt-then-MAC design.  
 👉 [View Repository](https://github.com/foxhackerzdevs/pinlock-img)
 
 🔹 **sshm**  
-Fast CLI tool to connect to SSH hosts instantly  
+Fast CLI tool to connect to SSH hosts instantly.  
 👉 [View Repository](https://github.com/foxhackerzdevs/sshm)
 
 ---
@@ -53,7 +57,7 @@ Fast CLI tool to connect to SSH hosts instantly
 
 ## 🌐 Connect
 
-📌 GitHub: [foxhackerzdevs](https://github.com/foxhackerzdevs)
+📌 GitHub: [foxhackerzdevs](https://github.com)
 
 ---
 
