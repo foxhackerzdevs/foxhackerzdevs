@@ -1,67 +1,90 @@
-# 🦊 Fox Hackerz  
+# 🦊 Fox Hackerz
 
 <p align="center">
   <b>Cybersecurity • Automation • Developer Tools</b>
 </p>
 
 <p align="center">
-  Build. Break. Secure.
+  <i>Build. Break. Secure.</i>
 </p>
 
 ---
 
 ## 🚀 What We Do
 
-Fox Hackerz builds practical tools focused on:
+**Fox Hackerz** builds practical, security-focused tools designed for real-world use.
 
-- 🔐 Cybersecurity  
-- ⚙️ Automation  
-- 🧰 Developer utilities  
+We focus on:
 
-We focus on **simple, effective, and real-world tools** — not overengineered solutions.
+* 🔐 Cybersecurity
+* ⚙️ Automation
+* 🧰 Developer Utilities
+
+No unnecessary complexity. No overengineering.
+Just tools that work.
 
 ---
 
 ## 🧩 Projects
 
-🔹 **FoxPipe**  
-Secure • Simple • Reliable data streaming via end-to-end encrypted Unix pipes.  
-👉 [View Repository](https://github.com/foxhackerzdevs/FoxPipe) | [PyPI](https://pypi.org/project/foxpipe)
+### 🔹 FoxPipe
 
-🔹 **FoxScan**  
-Lightweight reconnaissance tool for port scanning & header analysis.  
-👉 [View Repository](https://github.com/foxhackerzdevs/FoxScan)
+Secure, end-to-end encrypted Unix pipe communication.
+👉 [https://github.com/foxhackerzdevs/FoxPipe](https://github.com/foxhackerzdevs/FoxPipe)
+👉 [https://pypi.org/project/foxpipe](https://pypi.org/project/foxpipe)
 
-🔹 **Cryptify**  
-Multi-layered security tool for file encryption and system protection.  
-👉 [View Repository](https://github.com/foxhackerzdevs/Cryptify)
+---
 
-🔹 **fox-vault**  
-Minimalist CLI for file encryption. XChaCha20-Poly1305 + Argon2id. Hard to misuse.  
-👉 [View Repository](https://github.com/foxhackerzdevs/fox-vault)
+### 🔹 FoxScan
 
-🔹 **pinlock-img**  
-Authenticated PNG vault with Encrypt-then-MAC design.  
-👉 [View Repository](https://github.com/foxhackerzdevs/pinlock-img)
+Lightweight reconnaissance tool for port scanning and HTTP header analysis.
+👉 [https://github.com/foxhackerzdevs/FoxScan](https://github.com/foxhackerzdevs/FoxScan)
 
-🔹 **sshm**  
-Fast CLI tool to connect to SSH hosts instantly.  
-👉 [View Repository](https://github.com/foxhackerzdevs/sshm)
+---
+
+### 🔹 Cryptify
+
+Multi-layered file encryption and system protection toolkit.
+👉 [https://github.com/foxhackerzdevs/Cryptify](https://github.com/foxhackerzdevs/Cryptify)
+
+---
+
+### 🔹 fox-vault
+
+Minimalist CLI for file encryption using XChaCha20-Poly1305 and Argon2id.
+👉 [https://github.com/foxhackerzdevs/fox-vault](https://github.com/foxhackerzdevs/fox-vault)
+
+---
+
+### 🔹 pinlock-img
+
+Authenticated PNG vault using Encrypt-then-MAC design.
+👉 [https://github.com/foxhackerzdevs/pinlock-img](https://github.com/foxhackerzdevs/pinlock-img)
+
+---
+
+### 🔹 sshm
+
+Fast CLI tool for instant SSH connections.
+👉 [https://github.com/foxhackerzdevs/sshm](https://github.com/foxhackerzdevs/sshm)
 
 ---
 
 ## 🧠 Philosophy
 
 > Build tools that are:
-> - Simple  
-> - Practical  
-> - Reliable  
+>
+> * Simple
+> * Practical
+> * Reliable
+
+We prioritize **clarity over complexity** and **security over convenience shortcuts**.
 
 ---
 
 ## 🌐 Connect
 
-📌 GitHub: [foxhackerzdevs](https://github.com/foxhackerzdevs)
+* GitHub: [https://github.com/foxhackerzdevs](https://github.com/foxhackerzdevs)
 
 ---
 
