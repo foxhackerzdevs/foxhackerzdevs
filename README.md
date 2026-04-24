@@ -36,6 +36,10 @@ Lightweight reconnaissance tool for port scanning & header analysis.
 Multi-layered security tool for file encryption and system protection.  
 👉 [View Repository](https://github.com/foxhackerzdevs/Cryptify)
 
+🔹 **fox-vault**  
+Minimalist CLI for file encryption. XChaCha20-Poly1305 + Argon2id. Hard to misuse.  
+👉 [View Repository](https://github.com/foxhackerzdevs/fox-vault)
+
 🔹 **pinlock-img**  
 Authenticated PNG vault with Encrypt-then-MAC design.  
 👉 [View Repository](https://github.com/foxhackerzdevs/pinlock-img)
