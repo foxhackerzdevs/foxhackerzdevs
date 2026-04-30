@@ -16,57 +16,58 @@
 
 We focus on:
 
-* 🔐 Cybersecurity
-* ⚙️ Automation
+* 🔐 Defensive Security Tools
+* ⚙️ Automation  
 * 🧰 Developer Utilities
 
 No unnecessary complexity. No overengineering.
 Just tools that work.
 
+**Quick start:** `pip install foxpipe` or `sudo python3 packet_audit.py`
+
 ---
 
 ## 🧩 Projects
 
-### 🔹 FoxPipe
-
-Secure, end-to-end encrypted Unix pipe communication.
-👉 [https://github.com/foxhackerzdevs/FoxPipe](https://github.com/foxhackerzdevs/FoxPipe)
-👉 [https://pypi.org/project/foxpipe](https://pypi.org/project/foxpipe)
+### ⚡ FoxPipe
+Secure, end-to-end encrypted Unix pipe communication. No servers, no setup, just a shared password.
+👉 [GitHub](https://github.com/foxhackerzdevs/FoxPipe) • [PyPI](https://pypi.org/project/foxpipe)
 
 ---
 
-### 🔹 FoxScan
-
-Lightweight reconnaissance tool for port scanning and HTTP header analysis.
-👉 [https://github.com/foxhackerzdevs/FoxScan](https://github.com/foxhackerzdevs/FoxScan)
-
----
-
-### 🔹 Cryptify
-
-Multi-layered file encryption and system protection toolkit.
-👉 [https://github.com/foxhackerzdevs/Cryptify](https://github.com/foxhackerzdevs/Cryptify)
+### 📡 Packet Auditor
+Bare-bones real-time network packet monitor with TCP flags, IPv6, and BPF filtering. `tcpdump` for humans.
+👉 [GitHub](https://github.com/foxhackerzdevs/packet-auditor)
 
 ---
 
 ### 🔹 fox-vault
-
-Minimalist CLI for file encryption using XChaCha20-Poly1305 and Argon2id.
-👉 [https://github.com/foxhackerzdevs/fox-vault](https://github.com/foxhackerzdevs/fox-vault)
-
----
-
-### 🔹 pinlock-img
-
-Authenticated PNG vault using Encrypt-then-MAC design.
-👉 [https://github.com/foxhackerzdevs/pinlock-img](https://github.com/foxhackerzdevs/pinlock-img)
+Minimalist CLI for file encryption using XChaCha20-Poly1305 and Argon2id. One file in, one file out.
+👉 [GitHub](https://github.com/foxhackerzdevs/fox-vault)
 
 ---
 
 ### 🔹 sshm
+Fast CLI tool for instant SSH connections. Your `~/.ssh/config` with a better UX.
+👉 [GitHub](https://github.com/foxhackerzdevs/sshm)
 
-Fast CLI tool for instant SSH connections.
-👉 [https://github.com/foxhackerzdevs/sshm](https://github.com/foxhackerzdevs/sshm)
+---
+
+### 🔹 FoxScan
+Lightweight reconnaissance tool for port scanning and HTTP header analysis.
+👉 [GitHub](https://github.com/foxhackerzdevs/FoxScan)
+
+---
+
+### 🔹 pinlock-img
+Authenticated PNG vault using Encrypt-then-MAC design. Hide secrets in plain sight.
+👉 [GitHub](https://github.com/foxhackerzdevs/pinlock-img)
+
+---
+
+### 🔹 Cryptify
+Multi-layered file encryption and system protection toolkit.
+👉 [GitHub](https://github.com/foxhackerzdevs/Cryptify)
 
 ---
 
@@ -75,16 +76,19 @@ Fast CLI tool for instant SSH connections.
 > Build tools that are:
 >
 > * Simple
-> * Practical
+> * Practical  
 > * Reliable
 
-We prioritize **clarity over complexity** and **security over convenience shortcuts**.
+We prioritize **clarity over complexity** and **security over convenience shortcuts**. 
+
+If a tool needs a 20-page manual, we built it wrong.
 
 ---
 
 ## 🌐 Connect
 
 * GitHub: [https://github.com/foxhackerzdevs](https://github.com/foxhackerzdevs)
+* PyPI: [https://pypi.org/user/abhrankan/](https://pypi.org/user/abhrankan/)
 
 ---
 
