@@ -1,113 +1,169 @@
 # 🦊 Fox Hackerz
 
-<p align="center">
-  <b>Cybersecurity • Automation • Developer Tools</b>
-</p>
+<div align="center">
 
-<p align="center">
-  <i>Build. Break. Secure.</i>
-</p>
+### Cybersecurity • Automation • Developer Tools
+
+*Build. Break. Secure.*
+
+</div>
 
 ---
 
-## 🚀 What We Do
+## 🚀 Mission
 
-**Fox Hackerz** builds practical, security-focused tools designed for real-world use.
+Fox Hackerz develops practical security-focused software designed for real-world use.
 
-We focus on:
+Our tools emphasize:
 
-* 🔐 Defensive Security Tools
-* ⚙️ Automation
-* 🧰 Developer Utilities
+- 🔐 Security
+- ⚡ Performance
+- 🛠️ Simplicity
+- 📦 Portability
 
-No unnecessary complexity. No overengineering.
+No unnecessary complexity.
+
+No overengineering.
+
 Just tools that work.
 
 ---
 
-## ⚡ Quick Start
+## ⚡ Featured Projects
 
-```bash
-pip install foxpipe packet-auditor
-```
+### 🔐 FoxPipe
 
----
+Secure end-to-end encrypted Unix pipe communication.
 
-## 🧩 Projects
+No servers. No accounts. No setup.
 
-### ⚡ FoxPipe
-
-Secure, end-to-end encrypted Unix pipe communication. No servers, no setup — just a shared password.
-👉 [https://github.com/foxhackerzdevs/FoxPipe](https://github.com/foxhackerzdevs/FoxPipe)
-👉 [https://pypi.org/project/foxpipe](https://pypi.org/project/foxpipe)
+**Repository:** https://github.com/foxhackerzdevs/FoxPipe  
+**PyPI:** https://pypi.org/project/foxpipe
 
 ---
 
 ### 📡 Packet Auditor
 
-Bare-bones real-time network packet monitor with TCP flags, IPv6, and BPF filtering.
-**Think `tcpdump` for humans.**
-👉 [https://github.com/foxhackerzdevs/packet-auditor](https://github.com/foxhackerzdevs/packet-auditor)
-👉 [https://pypi.org/project/packet-auditor](https://pypi.org/project/packet-auditor)
+Real-time packet inspection with:
+
+- IPv4 & IPv6 support
+- TCP flag analysis
+- BPF filtering
+- Human-readable output
+
+Think:
+
+> tcpdump for humans.
+
+**Repository:** https://github.com/foxhackerzdevs/packet-auditor  
+**PyPI:** https://pypi.org/project/packet-auditor
 
 ---
 
-### 🔹 fox-vault
+### 🔒 fox-vault
 
-Minimalist CLI for file encryption using XChaCha20-Poly1305 and Argon2id.
-👉 [https://github.com/foxhackerzdevs/fox-vault](https://github.com/foxhackerzdevs/fox-vault)
+Minimalist file encryption CLI.
 
----
+Built with:
 
-### 🔹 sshm
+- XChaCha20-Poly1305
+- Argon2id
+- Secure defaults
 
-Fast CLI tool for instant SSH connections — a cleaner, faster `~/.ssh/config` experience.
-👉 [https://github.com/foxhackerzdevs/sshm](https://github.com/foxhackerzdevs/sshm)
-
----
-
-### 🔹 FoxScan
-
-Lightweight reconnaissance tool for port scanning and HTTP header analysis.
-👉 [https://github.com/foxhackerzdevs/FoxScan](https://github.com/foxhackerzdevs/FoxScan)
+**Repository:** https://github.com/foxhackerzdevs/fox-vault
 
 ---
 
-### 🔹 pinlock-img
+### ⚡ sshm
 
-Authenticated PNG vault using Encrypt-then-MAC. Hide secrets in plain sight.
-👉 [https://github.com/foxhackerzdevs/pinlock-img](https://github.com/foxhackerzdevs/pinlock-img)
+Instant SSH access without wrestling with large configuration files.
 
----
+A faster, cleaner SSH workflow.
 
-### 🔹 Cryptify
-
-Multi-layered file encryption and system protection toolkit.
-👉 [https://github.com/foxhackerzdevs/Cryptify](https://github.com/foxhackerzdevs/Cryptify)
+**Repository:** https://github.com/foxhackerzdevs/sshm
 
 ---
 
-## 🧠 Philosophy
+### 🔎 FoxScan
 
-> Build tools that are:
->
-> * Simple
-> * Practical
-> * Reliable
+Lightweight reconnaissance toolkit.
 
-We prioritize **clarity over complexity** and **security over convenience shortcuts**.
+Features:
 
-If a tool needs a 20-page manual, it’s overbuilt.
+- Port scanning
+- HTTP header analysis
+- Service discovery
 
----
-
-## 🌐 Connect
-
-* GitHub: [https://github.com/foxhackerzdevs](https://github.com/foxhackerzdevs)
-* PyPI: [https://pypi.org/user/abhrankan/](https://pypi.org/user/abhrankan/)
+**Repository:** https://github.com/foxhackerzdevs/FoxScan
 
 ---
 
-<p align="center">
-  <b>🦊 Join the pack. Build. Break. Secure.</b>
-</p>
+### 🖼️ pinlock-img
+
+Authenticated PNG vault.
+
+Hide encrypted information inside ordinary images.
+
+**Repository:** https://github.com/foxhackerzdevs/pinlock-img
+
+---
+
+### 🛡️ Cryptify
+
+Multi-layer encryption and system protection toolkit.
+
+**Repository:** https://github.com/foxhackerzdevs/Cryptify
+
+---
+
+## ⚡ Quick Start
+
+Install popular tools directly from PyPI:
+
+```bash
+pip install foxpipe
+pip install packet-auditor
+```
+
+---
+
+## 🧠 Design Philosophy
+
+> Security should not require complexity.
+
+We prioritize:
+
+- Clarity over cleverness
+- Reliability over hype
+- Security over convenience shortcuts
+- Small tools that solve real problems
+
+If a tool requires a 20-page manual, it's probably overbuilt.
+
+---
+
+## 📦 Technology Stack
+
+- Python
+- Linux
+- Networking
+- Cryptography
+- CLI Applications
+- Secure Protocol Design
+
+---
+
+## 🌐 Links
+
+- GitHub: https://github.com/foxhackerzdevs
+- PyPI: https://pypi.org/user/abhrankan/
+
+---
+
+<div align="center">
+
+### 🦊 Join the Pack
+
+Build. Break. Secure.
+
+</div>
