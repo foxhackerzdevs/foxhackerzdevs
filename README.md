@@ -160,6 +160,13 @@ If a tool requires a 20-page manual, it's probably overbuilt.
 
 ---
 
+## 🌐 Other Identities
+
+- [Abhrankan-Chakrabarti](https://github.com/Abhrankan-Chakrabarti) — Mathematics, algorithms, computational science
+- [abhrankan](https://github.com/abhrankan) — Tor hidden services, ARGs
+
+---
+
 <div align="center">
 
 ### 🦊 Join the Pack
