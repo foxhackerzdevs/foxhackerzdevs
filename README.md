@@ -17,16 +17,16 @@
 
 ---
 
-## 🚀 Mission
+## 🚀 About
 
-Fox Hackerz develops practical security-focused software designed for real-world use.
+Fox Hackerz is a GitHub profile focused on cybersecurity, automation, cryptography, networking, and developer tools.
 
-Our tools emphasize:
+The goal is simple:
 
-* 🔐 Security
-* ⚡ Performance
-* 🛠️ Simplicity
-* 📦 Portability
+* 🔐 Build secure software
+* ⚡ Keep it fast
+* 🛠️ Keep it practical
+* 📦 Keep it portable
 
 No unnecessary complexity.
 
@@ -36,21 +36,96 @@ Just tools that work.
 
 ---
 
-## 🧩 Featured Projects
+## ⚡ Featured Projects
 
-| Project               | Description                                                  |
-| --------------------- | ------------------------------------------------------------ |
-| 🔐 **FoxPipe**        | End-to-end encrypted Unix pipe communication                 |
-| 📡 **Packet Auditor** | Human-friendly packet inspection and network monitoring      |
-| 🔒 **fox-vault**      | Secure file encryption using XChaCha20-Poly1305 and Argon2id |
-| ⚡ **sshm**            | Faster and cleaner SSH workflow                              |
-| 🔎 **FoxScan**        | Lightweight reconnaissance and analysis toolkit              |
-| 🖼️ **pinlock-img**   | Authenticated PNG vault for encrypted data                   |
-| 🛡️ **Cryptify**      | Multi-layer encryption and system protection toolkit         |
+### 🔐 FoxPipe
+
+Secure end-to-end encrypted Unix pipe communication.
+
+No servers. No accounts. No setup.
+
+**Repository:** https://github.com/foxhackerzdevs/FoxPipe
+**PyPI:** https://pypi.org/project/foxpipe
+
+---
+
+### 📡 Packet Auditor
+
+Real-time packet inspection with:
+
+* IPv4 & IPv6 support
+* TCP flag analysis
+* BPF filtering
+* Human-readable output
+
+Think:
+
+> tcpdump for humans.
+
+**Repository:** https://github.com/foxhackerzdevs/packet-auditor
+**PyPI:** https://pypi.org/project/packet-auditor
+
+---
+
+### 🔒 fox-vault
+
+Minimalist file encryption CLI.
+
+Built with:
+
+* XChaCha20-Poly1305
+* Argon2id
+* Secure defaults
+
+**Repository:** https://github.com/foxhackerzdevs/fox-vault
+
+---
+
+### ⚡ sshm
+
+Instant SSH access without wrestling with large configuration files.
+
+A faster, cleaner SSH workflow.
+
+**Repository:** https://github.com/foxhackerzdevs/sshm
+
+---
+
+### 🔎 FoxScan
+
+Lightweight reconnaissance toolkit.
+
+Features:
+
+* Port scanning
+* HTTP header analysis
+* Service discovery
+
+**Repository:** https://github.com/foxhackerzdevs/FoxScan
+
+---
+
+### 🖼️ pinlock-img
+
+Authenticated PNG vault.
+
+Hide encrypted information inside ordinary images.
+
+**Repository:** https://github.com/foxhackerzdevs/pinlock-img
+
+---
+
+### 🛡️ Cryptify
+
+Multi-layer encryption and system protection toolkit.
+
+**Repository:** https://github.com/foxhackerzdevs/Cryptify
 
 ---
 
 ## ⚡ Quick Start
+
+Install popular tools directly from PyPI:
 
 ```bash
 pip install foxpipe
@@ -65,13 +140,14 @@ pip install packet-auditor
   <img src="https://skillicons.dev/icons?i=python,linux,bash,git,github,vscode" />
 </p>
 
-### Areas
+### Areas of Interest
 
 * Cryptography
 * Networking
 * Linux Systems
-* CLI Applications
+* Cybersecurity
 * Secure Protocol Design
+* CLI Applications
 * Automation
 
 ---
@@ -93,15 +169,27 @@ If a tool requires a 20-page manual, it's probably overbuilt.
 
 ## 🌐 Links
 
-* GitHub: https://github.com/foxhackerzdevs
-* PyPI: https://pypi.org/user/abhrankan/
+**GitHub:** https://github.com/foxhackerzdevs
+
+**PyPI:** https://pypi.org/user/abhrankan/
 
 ---
 
-## 🌐 Related Projects
+## 🌐 Other Identities
 
-* **Abhrankan-Chakrabarti** — Mathematics, algorithms, computational science
-* **abhrankan** — Hidden services, ARGs, experimental web systems
+### 🧮 Abhrankan-Chakrabarti
+
+Mathematics, algorithms, numerical methods, computational science.
+
+https://github.com/Abhrankan-Chakrabarti
+
+---
+
+### 🌑 abhrankan
+
+Tor hidden services, ARGs, signal environments, experimental web projects.
+
+https://github.com/abhrankan
 
 ---
 
