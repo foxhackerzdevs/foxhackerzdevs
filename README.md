@@ -123,6 +123,16 @@ Multi-layer encryption and system protection toolkit.
 
 ---
 
+### 🚀 remote-exec-server
+
+Dependency-free remote command execution using only the Python standard library.
+
+BusyBox-style symlink architecture — one client script acts as multiple remote commands.
+
+**Repository:** https://github.com/foxhackerzdevs/remote-exec-server
+
+---
+
 ## ⚡ Quick Start
 
 Install popular tools directly from PyPI:
@@ -200,3 +210,4 @@ https://github.com/abhrankan
 Build. Break. Secure.
 
 </div>
+
