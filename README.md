@@ -123,6 +123,22 @@ Multi-layer encryption and system protection toolkit.
 
 ---
 
+### 🔑 foxkey
+
+Encrypted terminal TOTP 2FA manager — Argon2id + ChaCha20-Poly1305, otpauth:// import, encrypted backups.
+
+**Repository:** https://github.com/foxhackerzdevs/foxkey
+
+---
+
+### 🥧 foxpi
+
+High-precision terminal π explorer — Chudnovsky, Ramanujan, Machin, and BBP spigot algorithms.
+
+**Repository:** https://github.com/foxhackerzdevs/foxpi
+
+---
+
 ### 🚀 remote-exec-server
 
 Dependency-free remote command execution using only the Python standard library.
@@ -210,4 +226,3 @@ https://github.com/abhrankan
 Build. Break. Secure.
 
 </div>
-
