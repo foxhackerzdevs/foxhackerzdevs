@@ -139,6 +139,14 @@ High-precision terminal π explorer — Chudnovsky, Ramanujan, Machin, and BBP s
 
 ---
 
+### 🖼️ stegofox
+
+High-performance encrypted steganography CLI — hide encrypted payloads in PNG images via LSB embedding.
+
+**Repository:** https://github.com/foxhackerzdevs/stegofox
+
+---
+
 ### 🚀 remote-exec-server
 
 Dependency-free remote command execution using only the Python standard library.
