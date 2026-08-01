@@ -147,6 +147,14 @@ High-performance encrypted steganography CLI — hide encrypted payloads in PNG 
 
 ---
 
+### 📡 ebpf-visualizer
+
+Real-time XDP/eBPF packet monitor — kernel-level capture in C, userspace visualization in Go.
+
+**Repository:** https://github.com/foxhackerzdevs/ebpf-visualizer
+
+---
+
 ### 🚀 remote-exec-server
 
 Dependency-free remote command execution using only the Python standard library.
