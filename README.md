@@ -38,6 +38,20 @@ Just tools that work.
 
 ## ⚡ Featured Projects
 
+### 🛡️ stverify
+
+Zero-bloat parallel cryptographic signer and integrity verifier for `.safetensors` model weights in Confidential GPU enclaves.
+
+* Zero-bloat static binary in pure Rust (Ed25519 + SHA-256)
+* Parallel multi-shard streaming with Rayon for 70B–405B+ parameter LLMs
+* Signed canonical manifest detects modified, missing, or injected rogue shards
+* Minimal `FROM scratch` container (~1.5 MB) for Kubernetes init-container gates
+
+**Repository:** https://github.com/foxhackerzdevs/stverify  
+**Releases:** https://github.com/foxhackerzdevs/stverify/releases
+
+---
+
 ### 🔐 FoxPipe
 
 Secure end-to-end encrypted Unix pipe communication.
