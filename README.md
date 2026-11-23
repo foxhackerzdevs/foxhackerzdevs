@@ -48,6 +48,7 @@ Zero-bloat parallel cryptographic signer and integrity verifier for `.safetensor
 * Minimal `FROM scratch` container (~1.5 MB) for Kubernetes init-container gates
 
 **Repository:** https://github.com/foxhackerzdevs/stverify  
+**crates.io:** https://crates.io/crates/stverify
 **Releases:** https://github.com/foxhackerzdevs/stverify/releases
 
 ---
