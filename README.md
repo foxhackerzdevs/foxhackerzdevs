@@ -69,6 +69,21 @@ Zero-copy eBPF/XDP pod egress guard & RoCEv2 (UDP/4791) anomaly monitor for sove
 
 ---
 
+### 🛡️ spdm-attest
+
+Hardware-rooted PCIe SPDM 1.2/1.3 measurement quote and responder certificate verifier for Confidential GPU enclaves.
+
+* Driver-level & PCIe DOE SPDM 1.2/1.3 wire-format decoder and validator
+* Cryptographic quote verification with NIST P-384, P-256, and Ed25519 signatures
+* Validates X.509 / DICE certificate chains up to trusted manufacturer Root CAs
+* Enforces initiator replay protection nonces and golden PCR/firmware baseline manifests
+* Generates synthetic mock attestation evidence for reproducible local testing and CI/CD
+
+**Repository:** https://github.com/foxhackerzdevs/spdm-attest  
+**Releases:** https://github.com/foxhackerzdevs/spdm-attest/releases
+
+---
+
 ### 🔐 FoxPipe
 
 Secure end-to-end encrypted Unix pipe communication.
