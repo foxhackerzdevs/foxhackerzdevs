@@ -53,6 +53,22 @@ Zero-bloat parallel cryptographic signer and integrity verifier for `.safetensor
 
 ---
 
+### ⚡ enclave-xdp
+
+Zero-copy eBPF/XDP pod egress guard & RoCEv2 (UDP/4791) anomaly monitor for sovereign AI factories and multi-tenant GPU enclaves.
+
+* Driver-level XDP hook parsing RoCEv2 InfiniBand BTH headers at line rate
+* In-kernel LPM Trie CIDR allowlist (`BPF_MAP_TYPE_LPM_TRIE`) for cluster/KMS subnets
+* Blocks unauthorized raw RDMA Write/Read opcodes (`0x06..0x14`) across tenant boundaries
+* Zero-copy ring buffer streaming structured JSON alerts to userspace
+* Pure Go CLI (`cilium/ebpf`) with built-in Prometheus metrics server (`:9090/metrics`)
+* Kubernetes DaemonSet manifest for bare-metal & confidential GPU worker nodes
+
+**Repository:** https://github.com/foxhackerzdevs/enclave-xdp  
+**Releases:** https://github.com/foxhackerzdevs/enclave-xdp/releases
+
+---
+
 ### 🔐 FoxPipe
 
 Secure end-to-end encrypted Unix pipe communication.
